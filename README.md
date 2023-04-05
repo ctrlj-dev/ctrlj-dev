@@ -70,7 +70,7 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - Confluence
 - Trello
 
-
+#### 🌠 Welcome! 🌠
 
 
 <!---

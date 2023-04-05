@@ -35,7 +35,7 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 
 ## 💎 Skills
 
-#### - **Frontend**
+#### - 👀 **Frontend**
 - JavaScript
 - TypeScript
 - React
@@ -53,19 +53,19 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - JQuery
 - and much more that probably I did not remember to write there...
 
-#### - **Backend**
+#### - 🌩️ **Backend**
 - Node.js
 - Express
 - MongoDB
 
-#### - **Design**
+#### - ✏️ **Design**
 - Figma
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe Indesign
 - Adobe XD
 
-#### **Misc**
+#### - 📔 **Misc**
 - Jira
 - Confluence
 - Trello

@@ -22,6 +22,45 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - 🐦 [Twitter](https://twitter.com/_ctrlj)
 - ✏️ [Behance](https://www.behance.net/_ctrlJ)
 
+## 💎 Skills
+
+#### - **Frontend**
+- JavaScript
+- TypeScript
+- React
+- GraphQL
+- Apollo
+- MUI
+- Bootstrap
+- PrimeReact
+- Webpack
+- Babel
+- Jest
+- Angular
+- Wordpress
+- PHP
+- JQuery
+- and much more that probably I don't remember to write there...
+
+#### - **Backend**
+- Node.js
+- Express
+- MongoDB
+
+#### - **Design**
+- Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Indesign
+- Adobe XD
+
+#### **Misc**
+- Jira
+- Confluence
+- Trello
+
+
+
 
 <!---
 ctrlj-dev/ctrlj-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,8 @@ I am a Frontend Developer currently on Málaga (Spain). I am also graphic design
 
 Currently, I work as a Frontend Developer with JavaScript tecnologies as React, Next.js, TypeScript GraphQL, Apollo, Angular and much more.
 
+Actually, I am working at Mayoral, a multinational e-commerce, by creating new features for the ecommerce or working on internal apps to improve the company performance
+
 In the past, I've also worked as a Wordpress Developer, creating sites and templates by scratch and helping companies with his image, creating brands, developing brand universe and designing interface for webs and apps.
 
 ## :guitar: About me:
@@ -40,7 +42,7 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - Wordpress
 - PHP
 - JQuery
-- and much more that probably I don't remember to write there...
+- and much more that probably I did not remember to write there...
 
 #### - **Backend**
 - Node.js

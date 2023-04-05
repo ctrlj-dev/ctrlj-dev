@@ -16,6 +16,13 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 
 - **Backend:** Currently Learning some backend with Node.js, Express and MongoDB
 - **Frontend:** Currently Mastering my React skills
+
+## 🔗 Links
+- 🖱️ [ctrlj.es](https://www.ctrlj.es/)
+- 🐦 [Twitter](https://twitter.com/_ctrlj)
+- ✏️ [Behance](https://www.behance.net/_ctrlJ)
+
+
 <!---
 ctrlj-dev/ctrlj-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -16,11 +16,11 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 
 ## 🧑‍🎓 My studies: 
 
-- Degree in Marketing and Market Research
-- Master in web development and UI by La Gauss
-- Master in graphic design by La Gauss
-- Javascript Bootcamp by LemonCode
-- Master in Javascript, TypeScript, React and other Javascript tecnologies by LemonCode
+- 2016 - Degree in Marketing and Market Research
+- 2018 - Master in web development and UI by La Gauss
+- 2019 - Master in graphic design by La Gauss
+- 2020 - Javascript Bootcamp by LemonCode
+- 2021 - Master in Javascript, TypeScript, React and other Javascript tecnologies by LemonCode
 - ...a lot of courses.
 
 ## 📓 Learning:

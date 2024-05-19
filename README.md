@@ -23,11 +23,6 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - 2021 - Master in Javascript, TypeScript, React and other Javascript tecnologies by LemonCode
 - ...a lot of courses.
 
-## 📓 Learning:
-
-- **Backend:** Currently Learning some backend with Node.js, Express and MongoDB
-- **Frontend:** Currently Mastering my React skills
-
 ## 🔗 Links
 - 🖱️ [ctrlj.es](https://www.ctrlj.es/)
 - 🐦 [Twitter](https://twitter.com/_ctrlj)

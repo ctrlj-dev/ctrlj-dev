@@ -1,6 +1,6 @@
 # 💻  Frontend Developer
 
-## ✋ I'am Jesús Cortés Cruz - @ctrlj
+## ✋ I'am Jesús - @ctrlj
 
 I am a Frontend Developer currently on Málaga (Spain). I am also graphic designer specialized in UI.
 

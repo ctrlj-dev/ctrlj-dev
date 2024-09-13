@@ -2,7 +2,7 @@
 
 ## ✋ I'am Jesús - @ctrlj
 
-I am a Frontend Developer currently on Málaga (Spain). I am also graphic designer specialized in UI.
+I am a Frontend Developer and also graphic designer specialized in UI.
 
 Currently, I work as a **Frontend Developer** with **JavaScript** tecnologies as **React, Next.js, TypeScript GraphQL, Apollo, Angular** and much more.
 

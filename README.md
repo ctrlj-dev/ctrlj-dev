@@ -17,7 +17,6 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - 2019 - Master in graphic design by La Gauss
 - 2020 - Javascript Bootcamp by LemonCode
 - 2021 - Master in Javascript, TypeScript, React and other Javascript tecnologies by LemonCode
-- ...a lot of courses.
 
 ## 🔗 Links
 - 🖱️ [ctrlj.es](https://www.ctrlj.es/)
@@ -42,7 +41,7 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - Wordpress
 - PHP
 - JQuery
-- and much more that probably I did not remember to write there...
+- ...etc.
 
 #### - 🌩️ **Backend**
 - Node.js

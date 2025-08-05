@@ -6,10 +6,6 @@ I am a Frontend Developer and also graphic designer specialized in UI.
 
 Currently, I work as a **Frontend Developer** with **JavaScript** tecnologies as **React, Next.js, TypeScript GraphQL, Apollo, Angular** and much more.
 
-## :guitar: About me:
-
-I am passionate about tecnology, design, music and videogames. I love to play with my xbox as to grab my guitar and play or listen to some music. I also try to dedicate some times to learn new stuf, because its fun, and because I like to improve my skills.
-
 ## 🧑‍🎓 My studies: 
 
 - 2016 - Degree in Marketing and Market Research
@@ -59,8 +55,6 @@ I am passionate about tecnology, design, music and videogames. I love to play wi
 - Jira
 - Confluence
 - Trello
-
-#### 🌠 Welcome! 🌠
 
 
 <!---

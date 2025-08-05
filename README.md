@@ -22,6 +22,7 @@ Currently, I work as a **Frontend Developer** with **JavaScript** tecnologies as
 ## 💎 Skills
 
 #### - 👀 **Frontend**
+- Next.js
 - JavaScript
 - TypeScript
 - React
